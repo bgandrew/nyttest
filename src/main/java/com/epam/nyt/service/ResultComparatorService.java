@@ -81,7 +81,4 @@ public class ResultComparatorService {
         return true;
     }
 
-    /**
-     *  maybe add a method for printing different field values too
-     */
 }
